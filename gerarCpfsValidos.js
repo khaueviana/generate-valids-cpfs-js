@@ -1,17 +1,6 @@
-
-
-<div id="kv">
-</div>
-
-<script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
-
-<script>
-
-gerarCps();
-
 function gerarCpfs(){
 
-	for(i = 0; i <= 351;i++){
+	for(i = 0; i <= 100;i++){
 		gerarCpf();
 	}
 
@@ -53,5 +42,3 @@ function gerarCpf()
 
 	$("#kv").append("<br/>" + cpf);
 }
-
-</script>
