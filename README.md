@@ -1,1 +1,1 @@
-# Geração de CPFs válidos com JS
+# generate-valids-cpfs-js
